@@ -1,1 +1,1 @@
-# kaggle-American-Default-competition
+# Credit Default Prediction
