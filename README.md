@@ -1,7 +1,7 @@
 # Credit Default Prediction
 
 Competition Link
-[](https://www.kaggle.com/competitions/amex-default-prediction)
+[https://www.kaggle.com/competitions/amex-default-prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 
 As submission an ensemble of a XGB model and a LGBM model was used, scoring in the upper 16%.
 
