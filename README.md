@@ -13,5 +13,5 @@ As submission an ensemble of a XGB model and a LGBM model was used, scoring in t
 * Time series [Link]()
 
 <b>Feature Engineering, Training, Validation, Prediction </b>
-+ XGB model: **[Code](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb)**   
-+ LGB model: **[Code](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_LGBM.ipynb)** 
++ XGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb)**   
++ LGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_LGBM.ipynb)** 
