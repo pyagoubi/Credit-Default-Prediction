@@ -7,7 +7,7 @@ The objective of this competition is to predict the probability that a customer 
 As submission an ensemble of a XGB model and a LGBM model was used, scoring in the upper 16%.
 
 Explorative Data Analysis
--- Comprehensive EDA: [Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_EDA.ipynb)
+* Comprehensive EDA: [Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_EDA.ipynb)
 
 XGB model: **[Code](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb)**   
 LGB model: **[Code](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_LGBM.ipynb)** 
