@@ -9,9 +9,9 @@ The objective of this competition is to predict the probability that a customer 
 As submission an ensemble of a XGB model and a LGBM model was used, scoring in the upper 16%.
 
 <b>Explorative Data Analysis  </b>
-* Comprehensive EDA: [Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_EDA.ipynb)
-* Time series [Link]()
+* Comprehensive EDA: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_EDA.ipynb)**
+* Time series **[Link]()**
 
 <b>Feature Engineering, Training, Validation, Prediction </b>
-+ XGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb)**   
-+ LGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_LGBM.ipynb)** 
++ XGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb) ** 
++ LGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_LGBM.ipynb)**
