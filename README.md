@@ -10,7 +10,7 @@ As submission an ensemble of a XGB model and a LGBM model was used, scoring in t
 
 <b>Explorative Data Analysis  </b>
 * Comprehensive EDA: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_EDA.ipynb)**
-* Time series **[Link]()**
+* Time series **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_eda_ts.ipynb)**(note book was also posted on kaggle https://www.kaggle.com/code/pyagoubi/amex-eda-evolvement-of-numeric-features-over-time)
 
 <b>Feature Engineering, Training, Validation, Prediction </b>
 + XGB model: **[Link](https://github.com/pyagoubi/Credit-Default-Prediction/blob/main/Amex_XGBoost.ipynb)** 
